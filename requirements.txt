@@ -32,3 +32,6 @@ twilio
 
 # OCR — free, runs on-server (CPU mode)
 easyocr
+# Excel / PDF report generation
+openpyxl
+reportlab
